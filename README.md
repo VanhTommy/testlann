@@ -15,7 +15,6 @@
 <p>-Vanh Cắt Moi!</p>
 <footer>
    &copy; 2021 by Vanh Cắt Moi<br>
-   <a href = "file:///C:/Users/Vanh/Desktop/ALNT%20HTML/WWTBAM%20Background.html" Ai Là Ngọc Thần</a>
 </footer>
 <figure>
     <figcaption>Logo Ai Là Ngọc Thần mùa 4-nay</figcaption>
